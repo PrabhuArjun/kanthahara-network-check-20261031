@@ -1,0 +1,17 @@
+{
+  "purpose": "Neutral network diagnostic, no study corpus",
+  "files": [
+    {
+      "path": "probe-32k.bin",
+      "bytes": 32768,
+      "sha256": "ff962edf7e60b79592878a3f85aa69e6d8a5e99ef30454b8dd5bd8cd3c459521",
+      "label": "32 КиБ"
+    },
+    {
+      "path": "probe-4m.bin",
+      "bytes": 4194304,
+      "sha256": "c3d1ab94b61d1912f92b114d007f2013fe9e697cee25a45c1299a924b3dee3b9",
+      "label": "4 МиБ"
+    }
+  ]
+}
